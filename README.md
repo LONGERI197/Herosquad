@@ -18,5 +18,11 @@ Hero Squad is an application that allows users who interact with it to create he
 # Author
 Lilian Bisase Ongeri
 
+# Live Link
+
+
 # Licence
 MIT Licence
+
+# Copyright
+Copyright (c) 2023 Lilian Bisase Ongeri
