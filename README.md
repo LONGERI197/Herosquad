@@ -15,3 +15,8 @@ an app that allows you to recruit a well-balanced team of superheroes
 6.Spark
 
 7.Junit
+# Author
+Lilian Bisase Ongeri
+
+# Licence
+MIT Licence
