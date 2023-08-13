@@ -2,16 +2,16 @@
 an app that allows you to recruit a well-balanced team of superheroes
 
 # Technologies Used
-HTML
+1.HTML
 
-CSS
+2.CSS
 
-Handlebars
+3.Handlebars
 
-Java
+4.Java
 
-Gradle
+5.Gradle
 
-Spark
+6.Spark
 
-Junit
+7.Junit
